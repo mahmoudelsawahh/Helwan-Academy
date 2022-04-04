@@ -305,8 +305,8 @@ header
   transition: all 0.3s ease 0s;
 }
 .header-area .main-nav .logo img{
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
 }
 .background-header .main-nav .logo {
